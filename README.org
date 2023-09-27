@@ -1,0 +1,5 @@
+#+title: Medical Appointment No Shows
+
+
+Source of Data Set: [[https://www.kaggle.com/datasets/joniarroba/noshowappointments][Medical Appointment No Shows | Kaggle]]
+State: WIP
